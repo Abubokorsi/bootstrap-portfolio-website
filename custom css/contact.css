@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+section {
+  overflow: hidden;
+}
+.navbar {
+  background-color: var(--Tint-blue, #1c1e53);
+}
+.nav-link {
+  color: white;
+  margin: 15px;
+}
+.section-heading {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+.contact-form {
+  width: 800px;
+  margin: auto;
+  background-color: var(--Grey, #f4f6fc);
+  border-radius: 10px;
+  padding: 80px;
+}
+.contact-form input{
+  background-color: #f4f6fc;
+  color: #1c1e53;
+}
+.textarea{
+  background-color: #f4f6fc;
+}

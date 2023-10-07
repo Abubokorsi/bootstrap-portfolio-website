@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+section {
+  overflow: hidden;
+}
+.navbar {
+  background-color: var(--Tint-blue, #1c1e53);
+}
+.nav-link {
+  color: white;
+  margin: 15px;
+}
+.banner {
+  background-color: var(--Tint-blue, #1c1e53);
+  color: white;
+  padding: 50px;
+}
+.banner h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+.banner h1,
+p {
+  margin: 10px;
+}
+.banner-img {
+  width: 80%;
+  height: 300px;
+  margin-left: 50px;
+}
+.service-heading {
+  width: 500px;
+  margin: auto;
+}
+.service {
+  padding: 40px;
+  background-color: var(--Grey, #f4f6fc);
+}
+.service i {
+  font-size: 45px;
+  color: blue;
+  margin: 5px;
+}
+.service-section img {
+  opacity: 0.6;
+  padding: 10px;
+}
+.blog-content {
+  padding: 20px;
+}
+.blog-content h2 {
+  margin: 20px 0px;
+}
+.blog-image img {
+  width: 515px;
+  height: 336px;
+}
+.blog-1-image img {
+  width: 515px;
+  height: 336px;
+  margin-left: 20px;
+}
+.accordion-content h2 {
+  margin: 10px;
+  font-weight: bold;
+}

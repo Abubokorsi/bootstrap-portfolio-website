@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+section {
+  overflow: hidden;
+}
+.navbar {
+  background-color: var(--Tint-blue, #1c1e53);
+}
+.nav-link {
+  color: white;
+  margin: 15px;
+}
+.section-heading {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+.price {
+  background-color: #1c1e53;
+  color: white;
+  padding: 70px 40px;
+  border-radius: 20px;
+}
+.price-1 {
+  background-color: var(--Grey, #dde0e9);
+  color: #1c1e53;
+}
+.price p {
+  margin: 20px 5px;
+}
+.price img {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
